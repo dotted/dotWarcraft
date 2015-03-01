@@ -1,0 +1,12 @@
+local LSM = LibStub("LibSharedMedia-3.0")
+
+LSM:Register("sound", "Blizzard: Alarm Clock 1",    "Sound\\Interface\\AlarmClockWarning1.ogg")
+LSM:Register("sound", "Blizzard: Alarm Clock 2",    "Sound\\Interface\\AlarmClockWarning2.ogg")
+LSM:Register("sound", "Blizzard: Alarm Clock 3",    "Sound\\Interface\\AlarmClockWarning3.ogg")
+LSM:Register("sound", "Blizzard: Bell - Alliance",  "Sound\\Doodad\\BellTollAlliance.ogg")
+LSM:Register("sound", "Blizzard: Bell - Horde",     "Sound\\Doodad\\BellTollHorde.ogg")
+LSM:Register("sound", "Blizzard: Bell - Night Elf", "Sound\\Doodad\\BellTollNightElf.ogg")
+LSM:Register("sound", "Blizzard: Drum Hit",         "Sound\\Doodad\\BellTollTribal.ogg")
+LSM:Register("sound", "Blizzard: Gong - Troll",     "Sound\\Doodad\\G_GongTroll01.ogg")
+LSM:Register("sound", "Blizzard: Karazhan Bell",    "Sound\\Doodad\\KharazahnBellToll.ogg")
+LSM:Register("sound", "Blizzard: Mellow Bells",     "Sound\\Spells\\ShaysBell.ogg")

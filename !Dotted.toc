@@ -1,0 +1,18 @@
+## Title: Dotted's additions
+## Notes: Just some additional happenings I want.
+##
+## Interface: 60100
+##
+## Version: 1.1
+## Author: Dotted
+##
+## OptionalDependencies: LibSharedMedia-3.0, LibBabble-Boss-3.0, LibBabble-Faction-3.0, LibBabble-Inventory-3.0, LibBabble-Zone-3.0, LibPeriodicTable-3.1
+##
+
+#@no-lib-strip@
+lib\LibStub\LibStub.lua
+lib\LibSharedMedia-3.0\LibSharedMedia-3.0.lua
+#@end-no-lib-strip@
+
+
+sounds.lua
