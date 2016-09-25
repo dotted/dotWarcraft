@@ -10,3 +10,4 @@ LSM:Register("sound", "Blizzard: Drum Hit",         "Sound\\Doodad\\BellTollTrib
 LSM:Register("sound", "Blizzard: Gong - Troll",     "Sound\\Doodad\\G_GongTroll01.ogg")
 LSM:Register("sound", "Blizzard: Karazhan Bell",    "Sound\\Doodad\\KharazahnBellToll.ogg")
 LSM:Register("sound", "Blizzard: Mellow Bells",     "Sound\\Spells\\ShaysBell.ogg")
+LSM:Register("sound", "Dotted: Turn down for what", "Interface\\AddOns\\!Dotted\\sounds\\turndownforwhat.ogg")
