@@ -1,12 +1,12 @@
 ## Title: Dotted's additions
 ## Notes: Just some additional happenings I want.
 ##
-## Interface: 70000
+## Interface: 90002
 ##
-## Version: 1.3
+## Version: 1.5
 ## Author: Dotted
 ##
-## OptionalDependencies: LibSharedMedia-3.0, LibBabble-Boss-3.0, LibBabble-Faction-3.0, LibBabble-Inventory-3.0, LibBabble-Zone-3.0, LibPeriodicTable-3.1, LibAlts-1.0, LibItemUpgradeInfo-1.0
+## OptionalDependencies: LibSharedMedia-3.0
 ##
 
 #@no-lib-strip@
